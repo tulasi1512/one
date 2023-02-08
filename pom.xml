@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://13.57.239.208:8081/repository/sample-releases</url>
+		    <url>http://3.83.173.182:8081//repository/tulasi-releases</url>
 		</repository>
   	</distributionManagement>
 	
